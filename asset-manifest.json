@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/W-dev-F.github.io/react_deploy_gh/static/css/main.d245b3a5.css",
-    "main.js": "/W-dev-F.github.io/react_deploy_gh/static/js/main.787ea6b3.js",
-    "index.html": "/W-dev-F.github.io/react_deploy_gh/index.html",
-    "main.d245b3a5.css.map": "/W-dev-F.github.io/react_deploy_gh/static/css/main.d245b3a5.css.map",
-    "main.787ea6b3.js.map": "/W-dev-F.github.io/react_deploy_gh/static/js/main.787ea6b3.js.map"
+    "main.css": "/gitfarouk.github.io/react_deploy_gh/static/css/main.d245b3a5.css",
+    "main.js": "/gitfarouk.github.io/react_deploy_gh/static/js/main.787ea6b3.js",
+    "index.html": "/gitfarouk.github.io/react_deploy_gh/index.html",
+    "main.d245b3a5.css.map": "/gitfarouk.github.io/react_deploy_gh/static/css/main.d245b3a5.css.map",
+    "main.787ea6b3.js.map": "/gitfarouk.github.io/react_deploy_gh/static/js/main.787ea6b3.js.map"
   },
   "entrypoints": [
     "static/css/main.d245b3a5.css",
